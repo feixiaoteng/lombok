@@ -21,5 +21,6 @@ public class LombokTest {
         logger.debug("这是一个日志:{}","hahah");
     }*/
     public static void main(String[] args) {
+        System.out.println("nihaoa");
     }
 }
